@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
     "homepage": "https://dave-07.github.io/React-Booklist/",
 
+=======
+    "homepage": "https://dave-07.github.io/React-Booklist",
+>>>>>>> ca2c776e0aab985b54b4d9b15a9b1bd178e8af8b
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
